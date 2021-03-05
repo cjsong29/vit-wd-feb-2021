@@ -10,4 +10,12 @@ h3 {
 }
 h4{
     text-shadow: 0ex;
+body {
+    background-color: grey;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    background-color: pink;
 }
